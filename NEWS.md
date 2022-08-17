@@ -1,3 +1,8 @@
+### CHANGES IN recogito VERSION 0.2.1
+
+- on re-rendering recogito in relations mode, now set the button by default correctly to mode ANNOTATION
+- Change of maintainer email address
+
 ### CHANGES IN recogito VERSION 0.2.0
 
 - read_annotorious now extracts from x$target$selector instead of x$target[[1]]$value
